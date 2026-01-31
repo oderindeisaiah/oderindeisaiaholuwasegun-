@@ -1,2 +1,19 @@
 # oderindeisaiaholuwasegun
-I’m a self-driven developer building a solid foundation in software development and cybersecurity. My focus is on understanding systems deeply from Python fundamentals to secure coding concepts while continuously improving through hands-on practice.
+
+Aspiring Software Developer | Python & Cybersecurity Fundamentals
+
+## Projects
+
+### 1. Password Hashing Tool
+A simple authentication system demonstrating secure password storage and login logic.  
+[Repo Link](./password-hashing-tool)
+
+### 2. File Integrity Checker
+Monitors files for changes using SHA-256 hashing. Demonstrates real cybersecurity fundamentals.  
+[Repo Link](./file-integrity-checker)
+
+## Skills
+- Python | Git | Linux Fundamentals | Cybersecurity Basics | Problem Solving
+
+## Contact
+Email: isaiaholuwasegunoderinde@gmail.com
